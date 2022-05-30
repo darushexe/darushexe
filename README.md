@@ -2,7 +2,7 @@
 - 👀      and darush.py
 - 🌱      and darush.yml
 - 💞️      and darush.db mongoDB...
-- 📫      and other languege
+- 📫      and darush.other
 
 <!---
 darushexe/darushexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
